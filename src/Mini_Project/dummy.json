@@ -1,0 +1,122 @@
+{
+  "dataTable": [
+    {
+      "id": 1,
+      "first_name": "Bensondf",
+      "last_name": "Halcro",
+      "email": "bhalcro0@gmail.com",
+      "gender": "Male",
+      "age": 95
+    },
+    {
+      "id": 2,
+      "first_name": "Martina",
+      "last_name": "Bowness",
+      "email": "mbowness1@gmail.com",
+      "gender": "Female",
+      "age": 64
+    },
+    {
+      "id": 3,
+      "first_name": "Zaria",
+      "last_name": "Aylett",
+      "email": "zaylett2@wordpress.com",
+      "gender": "Female",
+      "age": 44
+    },
+    {
+      "id": 4,
+      "first_name": "Glory",
+      "last_name": "Honisch",
+      "email": "ghonisch3@wordpress.org",
+      "gender": "Female",
+      "age": 90
+    },
+    {
+      "id": 5,
+      "first_name": "Benedicto",
+      "last_name": "Paszek",
+      "email": "bpaszek4@4shared.com",
+      "gender": "Male",
+      "age": 61
+    },
+    {
+      "id": 6,
+      "first_name": "Zuzana",
+      "last_name": "Klezmski",
+      "email": "zklezmski5@reuters.com",
+      "gender": "Female",
+      "age": 11
+    },
+    {
+      "id": 7,
+      "first_name": "Tod",
+      "last_name": "Plinck",
+      "email": "tplinck6@wp.com",
+      "gender": "Male",
+      "age": 44
+    },
+    {
+      "id": 8,
+      "first_name": "Druci",
+      "last_name": "Kilford",
+      "email": "dkilford7@walmart.com",
+      "gender": "Bigender",
+      "age": 13
+    },
+    {
+      "id": 9,
+      "first_name": "Pippy",
+      "last_name": "Habron",
+      "email": "phabron8@berkeley.edu",
+      "gender": "Genderfluid",
+      "age": 16
+    },
+    {
+      "id": 10,
+      "first_name": "Raquel",
+      "last_name": "Veljes",
+      "email": "rveljes9@uiuc.edu",
+      "gender": "Female",
+      "age": 38
+    },
+    {
+      "id": 11,
+      "first_name": "Jacques",
+      "last_name": "James",
+      "email": "jfurzera@loc.gov1",
+      "gender": "Polygender",
+      "age": 83
+    },
+    {
+      "id": 12,
+      "first_name": "Egon",
+      "last_name": "Turnor",
+      "email": "eturnorb@lulu.com",
+      "gender": "Male",
+      "age": 42
+    },
+    {
+      "id": 13,
+      "first_name": "Mahalia",
+      "last_name": "Dumingoss",
+      "email": "mdumingosc@engadget.com",
+      "gender": "Female",
+      "age": 20
+    },
+    {
+      "id": 14,
+      "first_name": "Brett",
+      "last_name": "Graves",
+      "email": "bgravesd@topsy.com",
+      "gender": "Genderqueer",
+      "age": 6
+    },
+    {
+      "id": 15,
+      "first_name": "Ch",
+      "last_name": "James",
+      "email": "ghonisch3@wordpress.org"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+/* MultiSelect.css */
+.multi-select {
+    width: 200px;
+    position: relative;
+    user-select: none;
+  }
+  
+  .select-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .arrow {
+    margin-left: 10px;
+  }
+  
+  .arrow.open {
+    transform: rotate(180deg);
+  }
+  
+  .options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    border: 1px solid #ccc;
+    background: #fff;
+    max-height: 150px;
+    overflow-y: auto;
+    z-index: 1000;
+  }
+  
+  .option {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .option.selected {
+    background: #ddd;
+  }
+  
+  .option:hover {
+    background: #f0f0f0;
+  }
+  

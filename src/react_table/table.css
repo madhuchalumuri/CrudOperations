@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.table {
+  border-collapse: collapse;
+  min-width: 80vw;
+  margin: 20px;
+  text-align: center;
+}
+
+.table td,
+.table th {
+  border: 1px solid #ddd;
+  width: 150px;
+  height: 50px;
+}
+.table th {
+  background-color: rgb(220, 60, 20);
+  color: white;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+.table tr:nth-child(odd) {
+  background-color: rgb(159, 216, 216);
+}
+
+.pageSize{
+  padding: 10px 16px;
+  font-size: 16px;
+  margin: 0px 20px;
+  background-color: #ddd;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  
+}
+
+button, .btn{
+  padding: 12px 24px;
+  margin-left: 20px;
+  cursor: pointer;
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.9);
+}
+button:active{
+  background-color: antiquewhite;
+}
+
+.crud{
+  padding: 40px;
+  height: 100vh;
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(176,176,187,1) 35%, rgba(0,212,255,1) 100%);
+}
+form{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+/* form input[type="text"] {
+  padding: 10px;
+  width: 200px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+} */
